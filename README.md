@@ -1,2 +1,2 @@
 # Scrape-Bot
-A simple discord bot to do basic google search
+A simple discord bot to do basic google 
