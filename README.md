@@ -1,5 +1,5 @@
 # Scrape-Bot
-A simple discord bot to do basic google  
+A simple discord bot to do basic google search.   
 No more hassle of switching from discord to do silly google search, Scrape Bot will do the job for you !!!
 
 
